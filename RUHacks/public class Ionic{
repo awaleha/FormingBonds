@@ -1,0 +1,8 @@
+public class Ionic{
+	
+	public static void main(String args[])
+   	 {
+   	 	new Iteration1().setVisible(true);
+
+   	 }
+}
